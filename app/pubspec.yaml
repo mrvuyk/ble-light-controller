@@ -88,3 +88,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  flutter_blue_plus: ^1.32.12
+  permission_handler: ^11.3.1
